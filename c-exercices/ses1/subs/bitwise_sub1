@@ -1,0 +1,13 @@
+sub1:
+-----
+
+Write a function that takes an integer, and checks it the most significant bit of it is set or not.
+
+Your function must be declared as follows:
+void check_msb(int num);
+
+Example:
+If you pass 0 to check_msb, it will print "msb is not set"
+
+Write a program that takes an integer and uses the function check_msb on it.
+

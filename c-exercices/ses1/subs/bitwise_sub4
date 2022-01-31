@@ -1,0 +1,12 @@
+sub4: (bonus)
+-----
+
+Write a function that takes two integers n and m, and prints in binary the nth byte of m.
+
+Your function must be declared as follows:
+void print_nth_byte(int n, int m);
+
+Example:
+If you pass (2, 1) to print_nth_byte, the output will be "00000010"
+
+Add a test for this function in your main.
